@@ -1,2 +1,1 @@
-net.timourti.dao.DaoImpl
 net.timourti.metier.MetierImpl
